@@ -1,0 +1,14 @@
+{
+    "note1": {
+        "note": "I am Coder",
+        "id": 1
+    },
+    "note2": {
+        "note": "I am Developer",
+        "id": 1
+    },
+    "note3": {
+        "note": "I Love coding",
+        "id": 1
+    }
+}
